@@ -1,0 +1,18 @@
+{
+  "short_name": "Developer Extension",
+  "name": "Developer Extension",
+  "description": "This is a simple chrome extension for developers",
+  "icons": {
+    "16": "favicon.ico",
+    "48": "logo192.png",
+    "128": "logo512.png"
+  },
+  "permissions": ["activeTab", "<all_urls>"],
+  "manifest_version": 3,
+  "version": "0.1.0",
+  "start_url": ".",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Developer Extension"
+  }
+}
