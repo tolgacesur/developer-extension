@@ -1,6 +1,6 @@
 # Developer Extension
 
-A simple and all-in-one extension to editing a cookie, request header or etc.
+A simple and all-in-one Chrome extension to editing a cookie, request header or etc.
 
 ## Setup
 
@@ -12,11 +12,12 @@ yarn install
 yarn build
 ```
 
-Enter this `chrome://extensions/` into your Chrome search bar and in the top-right corner, turn on developer mode. Click on “Load unpacked extension” then select your build folder.
+Enter this `chrome://extensions/` into your Chrome search bar and in the top-right corner, turn on developer mode. Click
+on “Load unpacked extension” then select your build folder.
 
 You're ready to go! :tada:
 
-## Features
+## TODO
 
 * [ ] Url editor
 * [ ] Cookie editor
